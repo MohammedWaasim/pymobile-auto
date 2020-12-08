@@ -1,0 +1,6 @@
+appium_demo:
+  contact_us_form:
+    name: "wasim"
+    email: "mohammed.waasim@gmail.com"
+    address: "india"
+    mobile: "1800180099"
